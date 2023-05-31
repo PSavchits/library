@@ -4,4 +4,4 @@ You wil have those possibilities:
 >Add new readers, books;
 >Edit, delete, view readers and books;
 >You can also assign a book to a reader on the book page, and release it when the reader returns the book.
-![List of registered people](screenss/AllPages.png)
+![List of registered people](screens/AllPages.png)
